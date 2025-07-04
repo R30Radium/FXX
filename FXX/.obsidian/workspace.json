@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "49ecacb191c67372",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e9de068ee933aae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f9a755ec41eb998",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps-L23/БД/Вопросы/Триггеры vs Индексы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Триггеры vs Индексы"
+            }
+          },
+          {
+            "id": "d9cc34ebeb3f6897",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eb818a8439e6a474",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7838de3cd682c79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41f2bf511b01f9ab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "9219e976521aa8a7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "917e3dda17bbcdbc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cfface6a03538ba0",
+    "type": "split",
+    "children": [
+      {
+        "id": "30ae826e5e566997",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ddef0359ad9af977",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DevOps/Технологии/Kubernetes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Kubernetes"
+            }
+          },
+          {
+            "id": "412e8bf9b0ea2eb3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DevOps/Технологии/Kubernetes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Kubernetes"
+            }
+          },
+          {
+            "id": "b5b30cf6d0fb45e1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "242db8e4c09dbfe4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DevOps/Технологии/Kubernetes.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Kubernetes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "0f9a755ec41eb998",
+  "lastOpenFiles": [
+    "Без названия 1.canvas",
+    "DevOps-L23/БД/Вопросы/Триггеры vs Индексы.md",
+    "DevOps-L23/БД/Вопросы/Что такое элиасы.md",
+    "DevOps-L23/БД/Вопросы/VARCHAR(n).md",
+    "DevOps-L23/БД/Вопросы/CHAR vs VARCHAR.md",
+    "DevOps-L23/БД/Вопросы/Что такое индексы.md",
+    "DevOps-L23/БД/Вопросы/Триггеры vs Процедуры.md",
+    "DevOps-L23/БД/Вопросы/Delete vs Truncate.md",
+    "QA/Вопросы/Ответы по Антону Назарову/55. Есть ли вопросы.md",
+    "DevOps-L23/БД/Вопросы",
+    "DevOps-L23/БД/Без названия.md",
+    "DevOps-L23/БД",
+    "DevOps-L23/БД",
+    "DevOps-L23/Технологии/Kubernetes.md",
+    "DevOps-L23/Технологии/Podman vs Docker.md",
+    "Без названия 1.md",
+    "DevOps-L23/Без названия 3",
+    "DevOps-L23/Без названия 2",
+    "DevOps-L23/Без названия 1",
+    "DevOps-L23/Технологии",
+    "DevOps/Без названия.md",
+    "DevOps-L23",
+    "QA/Вопросы/Ответы по Антону Назарову/1.Ознакомился с нашей вакансией.md",
+    "QA/Вопросы/Зачем тестировать ПО.md",
+    "QA/Вопросы/ГЛАВНЫЙ ПРИНЦИП ТЕСТИРОВАНИЯ.md",
+    "QA/Вопросы/Ответы по Антону Назарову/54. Какую компанию для себя рассматриваешь.md",
+    "QA/Вопросы/Ответы по Антону Назарову/53. Пробовал ли тестировать Kafka на практике.md",
+    "QA/Вопросы/Ответы по Антону Назарову/52. Что такое синхронность и асинхронность.md",
+    "QA/Вопросы/Ответы по Антону Назарову/51. Чем отличается постман коллекция от окружения..md",
+    "QA/Вопросы/Ответы по Антону Назарову/50. Чем пользовался в Postman и зачем.md",
+    "QA/Вопросы/Пирамида тестирования.md",
+    "QA/Вопросы/Ответы по Антону Назарову/49. Тестирование веба.md",
+    "QA/Вопросы/Ответы по Антону Назарову/48. Какие вкладки есть в девтулах ( ф12 ).md",
+    "QA/Вопросы/Ответы по Антону Назарову/47. Вводишь логин и пароль и ничего не происходит.md",
+    "Pasted image 20250130140139.png",
+    "QA/Вопросы/Ответы по Антону Назарову",
+    "QA/Технологии",
+    "Cache/газмяс.jpg",
+    "Без названия.canvas"
+  ]
+}
