@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FXX/DevOps_2025Q3/questions/cicd.md",
+                "file": "FXX/DevOps_2025Q3/questions/linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cicd"
+              "title": "linux"
             }
           }
         ]
@@ -170,8 +170,9 @@
   },
   "active": "4bb27a740dcdde87",
   "lastOpenFiles": [
-    "FXX/DevOps_2025Q3/questions/databases.md",
     "FXX/DevOps_2025Q3/questions/cicd.md",
+    "FXX/DevOps_2025Q3/questions/kubernetes.md",
+    "FXX/DevOps_2025Q3/questions/databases.md",
     "FXX/DevOps_2025Q3/questions/ansible.md",
     "FXX/DevOps_2025Q3/questions/imgs/docker-bridge.png",
     "FXX/DevOps_2025Q3/questions/imgs/cicdcd.jpg",
@@ -203,7 +204,6 @@
     "Untitled 2",
     "Untitled 1",
     "Untitled",
-    "FXX/DevOps_2025Q1/БД/Вопросы/Триггеры vs Процедуры.md",
     "Untitled.canvas",
     "FXX/DevOps_2025Q3/questions/imgs/example-request.jpg",
     "FXX/DevOps_2025Q1/ELK/Logstash/Вопросы",
